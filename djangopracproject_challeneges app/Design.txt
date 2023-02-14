@@ -1,0 +1,12 @@
+User data - Name, username, email, DOB, Phone number, current rating
+all matches data for the users should be shown as a list - data should also include how much rating has changed
+
+generate an excel file making x-y coordinates for date on x axis and rating on y axis
+
+current = 10
+match 5 = -1
+match 4 = +3
+match 3 = -1
+match 2 = +3
+match 1 = -1
+match 0 = 0
